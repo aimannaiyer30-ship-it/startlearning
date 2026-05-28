@@ -1,0 +1,4 @@
+print("hello bismillah , its my first python code")
+print("Hello GitHub!")
+print("Learning Git and GitHub step by step.")
+print("This is my first pushed change.")
